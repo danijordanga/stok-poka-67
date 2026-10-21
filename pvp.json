@@ -1,0 +1,16 @@
+{
+  "_ayuda": "Precios de referencia (PVP aproximado en España) para comparar. 'tipos' vale para todas las colecciones; 'colecciones' lo sobrescribe para una en concreto. 'margen' es el % sobre el PVP que la web considera precio razonable. Edita los números cuando cambien.",
+  "margen": 15,
+  "tipos": {
+    "etb": 56,
+    "etb_pc": 70,
+    "bundle": 36,
+    "booster_box": 215,
+    "upc": 200,
+    "blister": 18,
+    "pack": 6
+  },
+  "colecciones": {
+    "30-aniversario": { "etb": 59.9, "upc": 199.9, "pack": 7 }
+  }
+}
